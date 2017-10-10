@@ -96,7 +96,7 @@ when().get("http://localhost:3000/posts");
         System.out.println("Patch request" +resp.asString());
     }
 
-    
+
 
 
 }
